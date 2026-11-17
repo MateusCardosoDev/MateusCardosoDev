@@ -96,7 +96,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MateusCardosoDev&show_icons=true&hide_border=true&theme=transparent&title_color=2f80ed&icon_color=2f80ed&text_color=8b949e" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusCardosoDev&layout=compact&hide_border=true&theme=transparent&title_color=2f80ed&text_color=8b949e" alt="Top languages" />
+<img src="https://streak-stats.demolab.com?user=MateusCardosoDev&hide_border=true&background=00000000&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED&currStreakNum=8B949E&sideNums=8B949E&sideLabels=8B949E&dates=8B949E&stroke=8B949E40" alt="GitHub streak" />
 
 </div>
